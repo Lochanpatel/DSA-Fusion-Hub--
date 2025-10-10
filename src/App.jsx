@@ -8,7 +8,6 @@ import { mockUserProfile, mockUserProgress, mockQuestions, mockTopics } from './
 
 function App() {
   const [currentView, setCurrentView] = useState('dashboard');
-
   const stats = {
     totalSolved: mockUserProgress.filter(p => p.status === 'solved').length,
     easySolved: mockUserProgress.filter(p => {
