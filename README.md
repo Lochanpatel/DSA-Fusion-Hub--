@@ -2,7 +2,7 @@ DSA Fusion Hub
 
 DSA Fusion Hub is a web platform designed to aggregate, organize, and personalize Data Structures & Algorithms (DSA) preparation content from multiple creators. It empowers learners to efficiently access and practice curated problems while tracking their progress and collaborating with the community.
 
-Features
+Features:
 
 Content Aggregation: Collect DSA problems and sheets from multiple sources in one platform.
 
